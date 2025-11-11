@@ -196,7 +196,7 @@ A collection of my certifications and internships showcasing my skills, learning
 ---
 
 ### 📫 Contact & Profiles  
-📧 **Email:** chowdaryrekhakommineni@gmail.com  
+📧 **Email:** chowdaryrekhakommineni@gmail.com
 🌐 **Trailhead Profile:** [Visit My Trailhead](https://www.salesforce.com/trailblazer/krekhachowdary)
 📍 **Location:** Tirupati, Andhra Pradesh, India  
   
