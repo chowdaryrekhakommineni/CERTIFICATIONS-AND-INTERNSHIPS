@@ -17,14 +17,6 @@ A collection of my certifications and internships showcasing my skills, learning
 
 ### 📂 Certifications & Internships  
 
-#### Finance And Accounts Intern  
-**Provided By:** AMARA RAJA ENERGY & MOBILITY LTD  
-**Certificate Link:** [View Certificate](https://drive.google.com/file/d/1jIJn-xBqEh4r8gNihDg8GDvezluLlhYi/view?usp=drive_link)
-
-#### Python Programming  
-**Provided By:** SUBRAMANYAM TECHNOLOGIES  
-**Certificate Link:** [View Certificate](https://drive.google.com/file/d/1jM79E9sRh291e6fbTKm5Tqt8XJAD1Kjf/view?usp=drive_link)
-
 #### Long Term Physical Internship (Sales-Accounts)  
 **Provided By:** SRI GANESH ELECTRICALS  
 **Certificate Link:** [View Certificate](https://drive.google.com/file/d/1jKyghJto-nnaDNa-xLI9w-3iGKKXXH8S/view?usp=drive_link)
